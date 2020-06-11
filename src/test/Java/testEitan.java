@@ -1,12 +1,10 @@
-import AerialVehicles.FighterJets.F15;
-import AerialVehicles.UAVs.Haron.Eitan;
 import Entities.Coordinates;
 import Missions.AttackMission;
 import Missions.BdaMission;
 import Missions.IntelligenceMission;
 import Missions.MissionTypeException;
 import org.junit.Test;
-
+import AerialVehicles.Eitan;
 import static org.junit.Assert.*;
 
 public class testEitan {

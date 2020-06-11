@@ -1,16 +1,10 @@
-import AerialVehicles.FighterJets.F15;
-import AerialVehicles.FighterJets.F16;
-import AerialVehicles.UAVs.Haron.Eitan;
-import AerialVehicles.UAVs.Haron.Shoval;
-import AerialVehicles.UAVs.Hermes.Kochav;
-import AerialVehicles.UAVs.Hermes.Zik;
 import Entities.Coordinates;
 import Missions.AttackMission;
 import Missions.BdaMission;
 import Missions.IntelligenceMission;
 import Missions.MissionTypeException;
 import org.junit.Test;
-
+import AerialVehicles.F16;
 import static org.junit.Assert.*;
 
 public class testF16 {
